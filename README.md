@@ -18,7 +18,7 @@ o  Internet connectivity for online key activation (only needed for the initial 
 # Elevated Prompt: Execute Latest Script w/ Default Parameters
 iex ([System.Net.WebClient]::new().DownloadString('https://tylerdotrar.github.io/Activate-MicrosoftOffice')); Activate-MicrosoftOffice
 ```
-![Banner](https://github.com/tylerdotrar/Activate-MicrosoftOffice/assets/69973771/bd053187-1c84-49f0-b756-12aed8ccaade)
+![Banner](https://github.com/user1669-0/Activate-MicrosoftOffice)/assets/69973771/bd053187-1c84-49f0-b756-12aed8ccaade)
 _(Note: ignore the longer URL in the photo; the URL has since been condensed via Github Pages CI/CD)_
 
 
